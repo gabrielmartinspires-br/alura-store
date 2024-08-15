@@ -2,6 +2,10 @@
     padding: 3rem 0;
 }
 
+.populares__conteudo {
+    
+}
+
 .populares__card {
     background: var(--branco-suave);
     display: grid;
@@ -18,6 +22,12 @@
 }
 
 .populares__card___corpo {
+    display: grid;
     grid-area: card-corpo;
+    grid-row-gap: .5rem;
+    grid-template-areas:
+    "card-cabecalho"
+    "card-conteudo";
+    grid-template-rows: 50px auto;
     padding: .75rem;
 }
