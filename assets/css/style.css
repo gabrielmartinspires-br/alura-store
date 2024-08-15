@@ -20,7 +20,7 @@
     "conteudo"
     "rodape";
     grid-template-columns: auto;
-    grid-template-rows: 50px auto auto;
+    grid-template-rows: 50px 100vh auto;
 }
 
 .cabecalho {
