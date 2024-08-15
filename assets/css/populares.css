@@ -3,5 +3,5 @@
 }
 
 .populares__card {
-    
+    display: grid;
 }
