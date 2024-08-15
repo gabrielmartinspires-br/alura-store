@@ -1,6 +1,8 @@
 .caixa {
     align-items: flex-end;
+    background: var(--cinza-suave);
     display: flex;
+    justify-content: center;
 }
 
 .destaques {
