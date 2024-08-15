@@ -6,6 +6,9 @@
     --fonte-principal: Arial, Helvetica, sans-serif;
     
     --branco: #f1f1f1;
+    --verde: #00cc99;
+    --vermelho: #ff8080;
+    --azul: #0099ff;
 }
 
 .app {
@@ -21,10 +24,13 @@
 }
 
 .cabecalho {
+    background: var(--verde);
 }
  
 .conteudo {
+    background: var(--vermelho);
 }
 
 .rodape {
+    background: var(--azul);
 }
