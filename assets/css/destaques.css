@@ -8,6 +8,9 @@
 .destaques__titulo {
     background: var(--preto-transparente);
     color: var(--branco-suave);
+    padding: .6rem;
+    text-align: center;
+    width: 100%;
 }
 
 .destaques__principal {
