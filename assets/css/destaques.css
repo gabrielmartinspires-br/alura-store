@@ -16,3 +16,10 @@
     grid-column: 4 / 4;
     grid-row: 1 / 1;
 }
+
+.destaques__secundario:nth-child(3) {
+    background: url('../img/slack.png') center / cover no-repeat;
+    grid-column: 4 / 4;
+    grid-row: 2 / 3;
+}
+
