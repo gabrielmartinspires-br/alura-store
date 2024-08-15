@@ -1,4 +1,7 @@
 .populares {
-    display: grid;
     padding: 3rem 0;
+}
+
+.populares__card {
+    
 }
