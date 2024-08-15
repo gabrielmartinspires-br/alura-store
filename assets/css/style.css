@@ -10,7 +10,7 @@
 
 .app {
     background: var(--branco);
-    display: grid;  
+    display: grid;
     font-family: var(--fonte-principal);
 }
 
