@@ -25,16 +25,13 @@
 }
 
 .cabecalho {
-    background: var(--verde);
     grid-area: cabecalho;
 }
  
 .conteudo {
-    background: var(--vermelho);
     grid-area: conteudo;
 }
 
 .rodape {
-    background: var(--azul);
     grid-area: rodape;
 }
