@@ -7,16 +7,12 @@
 
 .destaques__principal {
     background: url('../img/fortnite.jpg') center / cover no-repeat;
-    grid-column-start: 1;
-    grid-column-end: 4;
-    grid-row-start: 1;
-    grid-row-end: 3;
+    grid-column: 1 / 4;
+    grid-row: 1 / 3;
 }
 
 .destaques__secundario:nth-child(2) {
     background: url('../img/pubg.jpg') center / cover no-repeat;
-    grid-column-start: 4;
-    grid-column-end: 4;
-    grid-row-start: 1;
-    grid-row-end: 1;
+    grid-column: 4;
+    grid-row: 1;
 }
