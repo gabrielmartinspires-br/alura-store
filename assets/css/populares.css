@@ -30,3 +30,5 @@
 .populares__card___corpo {
     display: grid;
     grid-area: card-corpo;
+    grid-row-gap: .5rem;
+}
