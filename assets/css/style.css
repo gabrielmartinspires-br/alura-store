@@ -21,6 +21,8 @@
     "cabecalho"
     "conteudo"
     "rodape";
+    grid-template-columns: auto;
+}
 
 .cabecalho {
     grid-area: cabecalho;
