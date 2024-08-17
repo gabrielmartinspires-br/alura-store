@@ -3,3 +3,31 @@
 @import url(./populares.css); 
 @import url(./reset.css);
 
+
+:root {
+    --fonte-principal: Arial, Helvetica, sans-serif;
+}
+
+.app {
+    background: var(--branco);
+    display: grid;
+    font-family: var(--fonte-principal);
+    grid-template-areas:
+    "cabecalho"
+    "conteudo"
+    "rodape";
+    grid-template-columns: auto;
+    grid-template-rows: 50px 100vh auto;
+}
+
+.cabecalho {
+    grid-area: cabecalho;
+}
+ 
+.conteudo {
+    grid-area: conteudo;
+}
+
+.rodape {
+    grid-area: rodape;
+}
