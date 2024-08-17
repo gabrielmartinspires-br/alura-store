@@ -16,7 +16,7 @@
 .app {
     background: var(--branco);
     display: grid;
-}
+    font-family: var(--fonte-principal);
 
 .cabecalho {
     grid-area: cabecalho;
