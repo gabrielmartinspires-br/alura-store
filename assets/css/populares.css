@@ -4,7 +4,8 @@
 
 .populares__conteudo {
     display: flex;
-    
+    flex-wrap: wrap;
+   
 }
 
 .populares__card {
