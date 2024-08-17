@@ -12,6 +12,9 @@
 .populares__card {
     background: var(--branco-suave);
     display: grid;
+    grid-template-areas: 
+    "card-imagem"
+    "card-corpo";
 }
 
 .populares__card___imagem {
