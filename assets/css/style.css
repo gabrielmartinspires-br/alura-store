@@ -29,8 +29,7 @@
     grid-area: cabecalho;
 }
  
-
-
-.rodape {
-    grid-area: rodape;
+.conteudo {
+    grid-area: conteudo;
 }
+
