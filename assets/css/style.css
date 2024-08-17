@@ -9,7 +9,7 @@
     
     --branco: #f1f1f1;
     --branco-suave: #fdfdfd;
-}
+    --grafite: #333333;
 
 .app {
     background: var(--branco);
