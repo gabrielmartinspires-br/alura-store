@@ -21,13 +21,13 @@
 }
 
 .destaques__principal {
-    
+    background: url('../img/fortnite.jpg') center / cover no-repeat;
+    grid-column: 1 / 4;
+    grid-row: 1 / 3;
 }
 
 .destaques__secundario:nth-child(2) {
-    background: url('../img/pubg.jpg') center / cover no-repeat;
-    grid-column: 4 / 4;
-    grid-row: 1 / 1;
+    
 }
 
 .destaques__secundario:nth-child(3) {
