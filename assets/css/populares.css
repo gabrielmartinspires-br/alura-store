@@ -35,4 +35,5 @@
     "card-cabecalho"
     "card-conteudo";
     grid-template-rows: 50px auto;
+    padding: .75rem;
 }
