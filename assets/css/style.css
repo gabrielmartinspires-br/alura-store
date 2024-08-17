@@ -25,11 +25,11 @@
     grid-template-rows: 50px 100vh auto;
 }
 
-
- 
-.conteudo {
-    grid-area: conteudo;
+.cabecalho {
+    grid-area: cabecalho;
 }
+ 
+
 
 .rodape {
     grid-area: rodape;
