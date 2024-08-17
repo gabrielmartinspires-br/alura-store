@@ -34,4 +34,5 @@
 }
 
 .rodape {
+    grid-area: rodape;
 }
