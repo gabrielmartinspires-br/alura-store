@@ -4,19 +4,16 @@
 @import url(./reset.css);
 
 
-
-
-.app {
-    background: var(--branco);
-    display: grid;
-    font-family: var(--fonte-principal);
-    grid-template-areas:
-    "cabecalho"
-    "conteudo"
-    "rodape";
-    grid-template-columns: auto;
-    grid-template-rows: 50px 100vh auto;
+:root {
+    --fonte-principal: Arial, Helvetica, sans-serif;
+    
+    --branco: #f1f1f1;
+    --branco-suave: #fdfdfd;
+    --grafite: #333333;
+    --preto-transparente: rgba(0, 0, 0, .5);
 }
+
+
 
 .cabecalho {
     grid-area: cabecalho;
