@@ -22,6 +22,7 @@
 }
 
 .populares__card___imagem {
+    grid-area: card-imagem;
 }
 
 .populares__card___corpo {
