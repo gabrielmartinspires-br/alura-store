@@ -30,8 +30,8 @@
 }
  
 .conteudo {
+    grid-area: conteudo;
 }
 
 .rodape {
-    grid-area: rodape;
 }
