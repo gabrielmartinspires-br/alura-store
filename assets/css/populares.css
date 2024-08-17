@@ -1,11 +1,8 @@
-
-
-.populares__conteudo {
-    display: flex;
-    flex-wrap: wrap;
-    grid-area: conteudo;
-    padding: 1rem 0;
+.populares {
+    padding: 3rem 0;
 }
+
+
 
 .populares__card {
     background: var(--branco-suave);
