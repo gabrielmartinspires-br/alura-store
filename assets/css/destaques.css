@@ -13,13 +13,15 @@
 }
 
 .destaques__titulo {
-   
+    background: var(--preto-transparente);
+    color: var(--branco-suave);
+    padding: .6rem;
+    text-align: center;
+    width: 100%;
 }
 
 .destaques__principal {
-    background: url('../img/fortnite.jpg') center / cover no-repeat;
-    grid-column: 1 / 4;
-    grid-row: 1 / 3;
+    
 }
 
 .destaques__secundario:nth-child(2) {
