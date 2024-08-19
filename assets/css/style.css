@@ -42,5 +42,8 @@
 }
 
 .rodape {
+    background: var(--branco-suave);
+    color: var(--grafite);
+    font-size: .8rem;
     grid-area: rodape;
 }
