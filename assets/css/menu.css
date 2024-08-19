@@ -3,7 +3,6 @@
     padding: .5rem 1rem;
 }
 
-.menu__link:hover {
+.menu__link:hover, .menu__link.ativo {
     border-bottom: 2x solid #0073e6;
-    text-decoration: underline;
 }
