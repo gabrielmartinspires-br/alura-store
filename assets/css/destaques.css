@@ -34,6 +34,7 @@
 
 .destaques__secundario:nth-child(3) {
     background: url('../img/slack.png') center / cover no-repeat;
+    grid-column: 4 / 4;
 }
 
 .destaques__secundario:nth-child(4) {
