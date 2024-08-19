@@ -13,6 +13,7 @@
 }
 
 .destaques__titulo {
+    background: var(--preto-transparente);
 }
 
 .destaques__principal {
