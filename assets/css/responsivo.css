@@ -30,7 +30,7 @@
 
 @media screen and (min-width: 768px){
     .destaques__principal {
-        grid-column: 1 / 5;
+        grid-column: 1 / 4;
     }
 
     .destaques__secundario:nth-child(2) {
