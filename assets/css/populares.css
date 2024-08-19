@@ -9,3 +9,15 @@
     padding: 1rem 0;
 }
 
+.populares__card {
+    background: var(--branco-suave);
+    display: grid;
+    grid-template-areas: 
+    "card-imagem"
+    "card-corpo";
+    grid-template-columns: 100%;
+    grid-template-rows: 173px auto;
+    margin-right: 1rem;
+    width: calc(20% - 1rem);
+}
+
