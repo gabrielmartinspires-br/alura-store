@@ -1,3 +1,17 @@
 .populares {
     padding: 3rem 0;
 }
+
+.populares__card {
+    background: var(--branco-suave);
+    display: grid;
+    grid-template-areas: 
+        "card-imagem"
+        "card-corpo";
+    grid-template-columns: 100%;
+
+}
+
+.populares__card___imagem {
+    
+}
