@@ -2,6 +2,10 @@
     padding: 3rem 0;
 }
 
+.populares__conteudo {
+    display: flex;
+}
+
 .populares__card {
     background: var(--branco-suave);
     display: grid;
