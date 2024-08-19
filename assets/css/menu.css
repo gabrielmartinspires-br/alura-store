@@ -4,5 +4,6 @@
 }
 
 .menu__link:hover {
+    border-bottom: 2x solid #0073e6;
     text-decoration: underline;
 }
