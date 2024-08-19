@@ -28,6 +28,7 @@
 
 .destaques__secundario:nth-child(2) {
     background: url('../img/pubg.jpg') center / cover no-repeat;
+    grid-column: 4 / 4;
 }
 
 .destaques__secundario:nth-child(3) {
