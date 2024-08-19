@@ -34,25 +34,25 @@
     }
 
     .destaques__secundario:nth-child(2) {
-        display: none;
+        display: flex;
         grid-column: none;
         grid-row: none;
     }
 
     .destaques__secundario:nth-child(3) {
-        display: none;
+        display: flex;
         grid-column: none;
         grid-row: none;
     }
 
     .destaques__secundario:nth-child(4) {
-        display: none;
+        display: flex;
         grid-column: none;
         grid-row: none;
     }
 
     .destaques__secundario:nth-child(5) {
-        display: none;
+        display: flex;
         grid-column: none;
         grid-row: none;
     }
