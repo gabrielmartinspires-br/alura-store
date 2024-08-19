@@ -45,6 +45,11 @@
 }
 
 .populares__card___data {
-    color: #808080;
-    font-size: --cinza;
+    color: var(--cinza);
+    font-size: .9rem;
+}
+
+.populares__card___descricao {
+    color: var(--grafite);
+    font-size: .;
 }
