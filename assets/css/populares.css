@@ -21,6 +21,7 @@
 .populares__card___corpo {
     display: grid;
     grid-area: card-corpo;
+    grid-row-gap: .5rem;
     grid-template-areas: 
     "card-cabecalho"
     "card-conteudo";
