@@ -16,6 +16,8 @@
     background: var(--preto-transparente);
     color: var(--branco-suave);
     padding: .6rem;
+    text-align: center;
+}
 
 .destaques__principal {
     background: url('../img/fortnite.jpg') center / cover no-repeat;
