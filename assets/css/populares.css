@@ -56,6 +56,11 @@
     text-align: justify;
 }
 
+.populares__cabecalho {
+    display: flex;
+    justify-content: space-between;
+}
+
 .populares__titulo {
     font-weight: 500;
 }
