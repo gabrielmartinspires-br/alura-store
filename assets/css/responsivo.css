@@ -26,6 +26,9 @@
         grid-column: none;
         grid-row: none;
     }
+    .populares__conteudo {
+        flex-direction: column;
+    }
 }
 
 @media screen and (min-width: 768px){
