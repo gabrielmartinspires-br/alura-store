@@ -72,14 +72,14 @@
     }
 
     .populares__conteudo {
-        flex-direction: column;
+        flex-direction: row;
     }
 
     .populares__card {
-        grid-template-rows: 150px auto;
+        grid-template-rows: 173px auto;
         margin-bottom: 3rem;
-        margin-right: 0;
-        width: 100%;
+        margin-right: 1rem;
+        width: calc(50% - 1rem);
     }
 }
 
