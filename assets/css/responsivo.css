@@ -29,6 +29,13 @@
     .populares__conteudo {
         flex-direction: column;
     }
+
+    .populares__card {
+        grid-template-rows: 150px auto;
+        margin-bottom: 3rem;
+        margin-right: 0;
+        width: 100%;
+    }
 }
 
 @media screen and (min-width: 768px){
