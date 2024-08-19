@@ -84,7 +84,12 @@
 }
 
 @media screen and (min-width: 992px){
-    
+    .populares__card {
+        grid-template-rows: 173px auto;
+        margin-bottom: 3rem;
+        margin-right: 1rem;
+        width: calc(50% - 1rem);
+    }
 }
 
 @media screen and (min-width: 1200px){
