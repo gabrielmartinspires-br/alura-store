@@ -6,6 +6,7 @@
 
 .destaques {
     display: grid;
+    grid-gap: .2rem;
 }
 
 .destaques__titulo {
