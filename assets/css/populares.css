@@ -4,6 +4,9 @@
 
 .populares__conteudo {
     display: flex;
+    flex-wrap: wrap;
+    grid-area: conteudo;
+    padding: 1rem 0;
 }
 
 .populares__card {
@@ -13,6 +16,7 @@
         "card-imagem"
         "card-corpo";
     grid-template-columns: 100%;
+    width: calc(20%);
 
 }
 
