@@ -21,6 +21,7 @@
 }
 
 .destaques__principal {
+    background: url('../img/fortnite.jpg') center / cover no-repeat;
 }
 
 .destaques__secundario:nth-child(2) {
