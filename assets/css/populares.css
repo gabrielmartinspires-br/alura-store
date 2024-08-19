@@ -18,3 +18,7 @@
     width: 100%;
 }
 
+.populares__card___corpo {
+    grid-area: card-corpo;
+    padding: .75rem;
+}
