@@ -19,15 +19,7 @@
 }
 
 .app {
-    background: var(--branco);
-    display: grid;
-    font-family: var(--fonte-principal);
-    grid-template-areas:
-    "cabecalho"
-    "conteudo"
-    "rodape";
-    grid-template-columns: auto;
-    grid-template-rows: 50px auto auto;
+   
 }
 
 .cabecalho {
