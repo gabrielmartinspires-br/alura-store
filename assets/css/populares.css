@@ -17,3 +17,7 @@
         "card-corpo";
     grid-template-columns: 100%;
 }
+
+.populares__card:last-child {
+    margin-right: 0;
+}
