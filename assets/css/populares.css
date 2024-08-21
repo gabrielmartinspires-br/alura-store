@@ -11,5 +11,6 @@
 
 .populares__card {
     background: var(--branco-suave);
+    display: grid;
     
 }
