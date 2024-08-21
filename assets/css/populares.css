@@ -69,3 +69,7 @@
 .populares__icone {
     margin-right: .25rem;
 }
+
+.populares__botao {
+    background: transparent;
+}
