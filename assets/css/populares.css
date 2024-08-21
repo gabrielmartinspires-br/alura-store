@@ -52,6 +52,7 @@
 .populares__card___descricao {
     color: var(--grafite);
     line-height: 1.5rem;
+    margin: 1rem 0;
 }
 
 
