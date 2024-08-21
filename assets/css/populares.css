@@ -15,4 +15,5 @@
     grid-template-areas: 
         "card-imagem"
         "card-corpo";
+    grid-template-columns: 100%;
 }
