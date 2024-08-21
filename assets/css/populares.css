@@ -73,3 +73,5 @@
 .populares__botao {
     background: transparent;
     border: none;
+    color: var(--grafite);
+}
