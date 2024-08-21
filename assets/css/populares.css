@@ -59,5 +59,6 @@
 .populares__cabecalho {
     border-bottom: 1px solid var(--cinza-claro);
     display: flex;
+    justify-content: space-between;
 }
 
