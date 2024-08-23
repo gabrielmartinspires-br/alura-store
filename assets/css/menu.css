@@ -1,5 +1,5 @@
 .menu__link {
-    
+    color: var(--grafite);
 }
 
 .menu__link:hover, .menu__link.ativo {
