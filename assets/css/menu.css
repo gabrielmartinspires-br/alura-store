@@ -1,5 +1,6 @@
 .menu__link {
     color: var(--grafite);
+    padding: .5rem 1rem;
 }
 
 .menu__link:hover, .menu__link.ativo {
