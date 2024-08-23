@@ -1,5 +1,6 @@
 .caixa {
     align-items: flex-end;
+    display: flex;
 }
 
 .destaques {
