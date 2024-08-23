@@ -5,6 +5,7 @@
 }
 
 .destaques {
+    display: grid;
 }
 
 .destaques__titulo {
