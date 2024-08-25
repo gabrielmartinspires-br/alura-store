@@ -26,6 +26,7 @@
     "cabecalho"
     "conteudo"
     "rodape";
+    grid-template-columns: auto;
 }
 
 .cabecalho {
