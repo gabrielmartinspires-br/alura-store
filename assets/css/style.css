@@ -20,7 +20,7 @@
 
 .app {
     background: var(--branco);
-    
+    display: grid;
 }
 
 .cabecalho {
