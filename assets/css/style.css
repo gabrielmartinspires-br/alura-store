@@ -22,6 +22,7 @@
     background: var(--branco);
     display: grid;
     font-family: var(--fonte-principal);
+    grid-template-areas:
 }
 
 .cabecalho {
