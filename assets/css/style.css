@@ -19,7 +19,8 @@
 }
 
 .app {
-   
+    background: var(--branco);
+    
 }
 
 .cabecalho {
